@@ -1,0 +1,8 @@
+@keyframes shape-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+@keyframes shape-slide {
+    from { left: -300px; }
+    to { left: 2000px; }
+}
